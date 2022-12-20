@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Sweet Sans Pro";
+    src: url('../../fonts/sweet-sans-pro.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+#loginTitle{
+    color: #131731;
+    font-family: 'Sweet Sans Pro';
+}
+#loginTitle:hover {
+    color: #5e6699;
+    text-decoration: none;
+}
+#loginCard{
+    background: #fff;
+    border-color: #9c6689;
+}
+.pLogin{
+    color: #131731;
+}
+.pRemember{
+    color: #5e6699;
+}
+.pLink{
+    color: #9c6689;
+}
+.btn-coloring{
+    background: #9c6689;
+    border-color: #9c6689;
+}
+.btn-coloring:hover{
+    background: #b89cae;
+    border-color: #b89cae;
+}
+.alert-coloring{
+    background: #9c6689;
+    border-color: #b89cae;
+}
+.footer-styling{
+    text-align: center;
+    font-size: 12px;
+    height: 1%;
+}
+.mainBg{
+    background: linear-gradient(to bottom, #d6a5c3,#fde2f3);
+}

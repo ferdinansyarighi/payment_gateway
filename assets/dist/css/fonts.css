@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Codec Pro";
+    src: url('../../fonts/codec-pro-regular.woff2') format("woff2"),
+         url('../../fonts/codec-pro-regular.woff') format("woff"),
+         url('../../fonts/codec-pro-regular.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
